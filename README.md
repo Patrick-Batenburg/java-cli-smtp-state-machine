@@ -9,4 +9,4 @@
 
 # Connecting to the server
 1.  Run the server and let it listen on the port it is assigned (default 25).
-2.  Open a command prompt and type _telnet host port_ (telnet 127.0.0.1 25)
+2.  Open a terminal and type _telnet host port_ (telnet 127.0.0.1 25)
